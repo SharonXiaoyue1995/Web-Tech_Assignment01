@@ -1,0 +1,69 @@
+body {
+   background: url("../images/background.jpg") ;
+   width: 100%;
+}
+
+header {
+	font-size: 30px;
+    font-family: Georgia, serif;
+	left: 50px;
+}
+
+nav{
+	font-size: 20px;
+}
+
+#wrapper {
+    width: 60%;
+    background-color: #FFFFFF; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#backgroundpic{
+	height: 450px;
+    background-image: url("../images/homep.jpg");
+    background-size: 100% 100%; 
+    background-repeat: no-repeat;
+}
+
+#svgtext{
+    font-size: 40px;
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+.dogpic{
+	width: 100px;
+	height: 100px;
+}
+
+p {
+  text-align: justify;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.catpic{
+	float:left;
+	width: 20%;
+	
+}
+
+.pantherpic{
+	float:right;
+	width: 20%;
+	
+}
+
+#birdcontent01{
+	width: 100%;
+}
+
+.birdpic{
+	float:left;
+	width: 50%;
+}
